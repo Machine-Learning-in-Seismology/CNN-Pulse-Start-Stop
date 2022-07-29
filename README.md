@@ -1,7 +1,5 @@
 # Determination of Initiation and Termination Positions of Impulsive Signals with Convolutional Neural Networks
 
-Codes are not finalized. Please follow the repository for the updates.
-
 # Data
 
 The data are the pkl files
